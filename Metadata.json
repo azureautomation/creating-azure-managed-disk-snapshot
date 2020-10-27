@@ -1,0 +1,20 @@
+{
+    "Author": "softsara",
+    "ContentSize": 2487,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/creating-azure-managed-disk-snapshot/master/CreateManagedDiskSnapshot.ps1",
+    "DownloadCount": 3788,
+    "Id": "Creating-Azure-Managed-c036d972",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 30,
+    "RaterCount": 2,
+    "Rating": 5.0,
+    "ReleaseDate": "2018-4-26T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This is a Powershell automation script for creating snapshots for OS disk and data disks of Azure VMs.",
+    "Title": "Creating Azure Managed Disk Snapshot",
+    "UpdatedDate": "2018-4-27T00:00:00",
+    "Url": "https://github.com/azureautomation/creating-azure-managed-disk-snapshot",
+    "UserTags": "Azure Automation, Microsoft Azure Virtual Machines"
+}
